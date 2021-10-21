@@ -189,11 +189,11 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
         if (isEncoder && SDK_INT >= LOLLIPOP) {
             val encoderCapabilities = capabilities.encoderCapabilities
             val bitrateModesString =
-                    "${context.getString(R.string.cbr)}: " +
+                    "\t${context.getString(R.string.cbr)}: " +
                             "${encoderCapabilities.isBitrateModeSupported(MediaCodecInfo.EncoderCapabilities.BITRATE_MODE_CBR)}" +
-                            "\n${context.getString(R.string.cq)}: " +
+                            "\n\t${context.getString(R.string.cq)}: " +
                             "${encoderCapabilities.isBitrateModeSupported(MediaCodecInfo.EncoderCapabilities.BITRATE_MODE_CQ)}" +
-                            "\n${context.getString(R.string.vbr)}: " +
+                            "\n\t${context.getString(R.string.vbr)}: " +
                             "${encoderCapabilities.isBitrateModeSupported(MediaCodecInfo.EncoderCapabilities.BITRATE_MODE_VBR)}"
             codecInfoMap[context.getString(R.string.bitrate_modes)] = bitrateModesString
 
@@ -272,7 +272,7 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
             if (bitrateRange.lower == bitrateRange.upper || bitrateRange.lower == 1) {
                 bitrateRange.upper.toBytesPerSecond()
             } else {
-                "${bitrateRange.lower.toBytesPerSecond()} \u2014 ${bitrateRange.upper.toBytesPerSecond()}"
+                "\t${bitrateRange.lower.toBytesPerSecond()} \u2014 ${bitrateRange.upper.toBytesPerSecond()}"
             }
         } else {
             // Source: http://www.voiceage.com/AMR-WBplus.html
@@ -301,9 +301,9 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
 
             else -> {
                 if (sampleRates[0].lower == sampleRates[0].upper) {
-                    "${sampleRates[0].upper.toKiloHertz()} KHz"
+                    "\t${sampleRates[0].upper.toKiloHertz()} KHz"
                 } else {
-                    "${sampleRates[0].lower.toKiloHertz()}, ${sampleRates[0].upper.toKiloHertz()} KHz"
+                    "\t${sampleRates[0].lower.toKiloHertz()}, ${sampleRates[0].upper.toKiloHertz()} KHz"
                 }
             }
         }
@@ -392,9 +392,9 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
             codecInfoMap[context.getString(R.string.max_bitrate)] = bitrateRange.upper.toBytesPerSecond()
 
             val framerateString = if (framerates.lower == framerates.upper) {
-                "${framerates.upper} ${context.getString(R.string.frames_per_second)}"
+                "\t${framerates.upper} ${context.getString(R.string.frames_per_second)}"
             } else {
-                "${framerates.lower} \u2014 ${framerates.upper} ${context.getString(R.string.frames_per_second)}"
+                "\t${framerates.lower} \u2014 ${framerates.upper} ${context.getString(R.string.frames_per_second)}"
             }
             codecInfoMap[context.getString(R.string.frame_rate)] = framerateString
 
@@ -447,9 +447,9 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
         val prefs = PreferenceManager.getDefaultSharedPreferences(context)
 
         return when (prefs.getString("known_values_color_profiles", "0")!!.toInt()) {
-            0 -> colorFormat
-            1 -> "$colorFormat (${colorFormatInt.toHexHstring()})"
-            else -> "$colorFormat ($colorFormatInt)"
+            0 -> "\t"+colorFormat
+            1 -> "\t$colorFormat (${colorFormatInt.toHexHstring()})"
+            else -> "\t$colorFormat ($colorFormatInt)"
         }
     }
 
@@ -467,9 +467,9 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
                 maxFrameRate = videoCapabilities.getSupportedFrameRatesFor(resolution[0], resolution[1]).upper
 
                 if (option == 0) {
-                    capabilities.append("${framerateClasses[index]}: ${"%.1f".format(maxFrameRate)} $fpsString\n")
+                    capabilities.append("\t${framerateClasses[index]}: ${"%.1f".format(maxFrameRate)} $fpsString\n")
                 } else {
-                    capabilities.append("${resolution[0]}x${resolution[1]}: ${"%.1f".format(maxFrameRate)} $fpsString\n")
+                    capabilities.append("\t${resolution[0]}x${resolution[1]}: ${"%.1f".format(maxFrameRate)} $fpsString\n")
                 }
             }
         }
@@ -621,8 +621,8 @@ import com.parseus.codecinfo.codecinfo.profilelevels.VP9Levels.*
 
         val profileString = when (option) {
             0 -> profile ?: unknownString
-            1 -> "${profile ?: unknownString} (${profileInt.toHexHstring()})"
-            else -> "${profile ?: unknownString} ($profileInt)"
+            1 -> "\t${profile ?: unknownString} (${profileInt.toHexHstring()})"
+            else -> "\t${profile ?: unknownString} ($profileInt)"
         }
 
         val levelNameString = if (level != null) {

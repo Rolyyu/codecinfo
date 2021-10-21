@@ -1,0 +1,1202 @@
+10-21 14:58:41.201 24416 24416 D @@@Codec Info:
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: video/3gpp (OMX.qcom.video.encoder.h263)
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Max resolution: 720x480
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Max bitrate: 2 Mbps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	240p: 162.0 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	360p: 70.4 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	360p (widescreen): 52.8 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	480p: 40.5 fps
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888Compressed
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.201 24416 24416 D @@@Codec Info: H263ProfileBaseline: H263Level70
+10-21 14:58:41.205 24416 24416 D @@@Codec Info:
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: video/3gpp (c2.android.h263.decoder)
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Max resolution: 352x288
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Max bitrate: 384 Kbps
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Frame rate: 	1  30 fps
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	144p: 30.0 fps
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	144p (YouTube): 30.0 fps
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	240p: 30.0 fps
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: H263ProfileBaseline: H263Level40
+10-21 14:58:41.205 24416 24416 D @@@Codec Info: H263ProfileISWV2: H263Level40
+10-21 14:58:41.208 24416 24416 D @@@Codec Info:
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: video/3gpp (c2.android.h263.encoder)
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Max resolution: 176x144
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Max bitrate: 128 Kbps
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Frame rate: 	1  30 fps
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	144p: 30.0 fps
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.208 24416 24416 D @@@Codec Info: H263ProfileBaseline: H263Level40
+10-21 14:58:41.213 24416 24416 D @@@Codec Info:
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: video/av01 (c2.android.av1.decoder)
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Max resolution: 1920x544
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Max bitrate: 10 Mbps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	240p: 520.0 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	240p (widescreen): 385.2 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	360p: 226.1 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	360p (widescreen): 169.6 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	480p: 130.0 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	480p (widescreen): 96.3 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	576p: 96.3 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	720p: 43.3 fps
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.213 24416 24416 D @@@Codec Info: AV1Profile0: AV1Level32
+10-21 14:58:41.220 24416 24416 D @@@Codec Info:
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: video/avc (OMX.google.h264.decoder)
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Max resolution: 4080x2048
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Max bitrate: 48 Mbps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	480p: 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	480p (widescreen): 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	576p: 960.0 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	720p: 546.1 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	1080p: 240.9 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	4K: 60.7 fps
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel52
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel52
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel52
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: AVCProfileConstrainedHigh: AVCLevel52
+10-21 14:58:41.220 24416 24416 D @@@Codec Info: AVCProfileHigh: AVCLevel52
+10-21 14:58:41.225 24416 24416 D @@@Codec Info:
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: video/avc (OMX.google.h264.encoder)
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Max resolution: 2048x1024
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Max bitrate: 12 Mbps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	240p: 819.2 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	240p (widescreen): 606.8 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	360p: 356.2 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	360p (widescreen): 267.1 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	480p: 204.8 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	480p (widescreen): 151.7 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	576p: 151.7 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	720p: 68.3 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	1080p: 30.1 fps
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Intra refresh: true
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): false
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel5
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel5
+10-21 14:58:41.225 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel5
+10-21 14:58:41.230 24416 24416 D @@@Codec Info:
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: video/avc (OMX.qcom.video.decoder.avc)
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Max bitrate: 100 Mbps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	480p: 819.2 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	480p (widescreen): 606.8 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	576p: 606.8 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	720p: 273.1 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	1080p: 120.5 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	4K: 30.3 fps
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: AVCProfileHigh: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: AVCProfileConstrainedHigh: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedBaseline: AVCLevel51
+10-21 14:58:41.230 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedHigh: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info:
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: video/avc (OMX.qcom.video.decoder.avc.secure)
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Max supported instances: 6
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Max bitrate: 100 Mbps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	1080p: 120.5 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	4K: 30.3 fps
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Secure playback decryption: true
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: AVCProfileHigh: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: AVCProfileConstrainedHigh: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedBaseline: AVCLevel51
+10-21 14:58:41.236 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedHigh: AVCLevel51
+10-21 14:58:41.241 24416 24416 D @@@Codec Info:
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: video/avc (OMX.qcom.video.encoder.avc)
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Max bitrate: 100 Mbps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888Compressed
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Intra refresh: true
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: AVCProfileHigh: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedBaseline: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: AVCProfileConstrainedHigh: AVCLevel52
+10-21 14:58:41.241 24416 24416 D @@@Codec Info: QOMX_VIDEO_AVCProfileConstrainedHigh: AVCLevel52
+10-21 14:58:41.247 24416 24416 D @@@Codec Info:
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: video/avc (c2.android.avc.decoder)
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Max resolution: 4080x2048
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Max bitrate: 48 Mbps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	480p: 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	480p (widescreen): 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	576p: 960.0 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	720p: 546.1 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	1080p: 240.9 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	4K: 60.7 fps
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel52
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel52
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel52
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: AVCProfileConstrainedHigh: AVCLevel52
+10-21 14:58:41.247 24416 24416 D @@@Codec Info: AVCProfileHigh: AVCLevel52
+10-21 14:58:41.251 24416 24416 D @@@Codec Info:
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: video/avc (c2.android.avc.encoder)
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Max resolution: 2048x1024
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Max bitrate: 12 Mbps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	240p: 819.2 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	240p (widescreen): 606.8 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	360p: 356.2 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	360p (widescreen): 267.1 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	480p: 204.8 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	480p (widescreen): 151.7 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	576p: 151.7 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	720p: 68.3 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	1080p: 30.1 fps
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Intra refresh: true
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): false
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: AVCProfileBaseline: AVCLevel5
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: AVCProfileConstrainedBaseline: AVCLevel5
+10-21 14:58:41.251 24416 24416 D @@@Codec Info: AVCProfileMain: AVCLevel5
+10-21 14:58:41.257 24416 24416 D @@@Codec Info:
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: video/hevc (OMX.google.hevc.decoder)
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Max resolution: 4096x2176
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Max bitrate: 10 Mbps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	360p: 740.7 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	360p (widescreen): 555.6 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	480p: 416.7 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	480p (widescreen): 311.5 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	576p: 308.6 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	720p: 138.9 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	1080p: 61.7 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	4K: 15.4 fps
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCHighTierLevel52
+10-21 14:58:41.257 24416 24416 D @@@Codec Info: HEVCProfileMainStill: HEVCHighTierLevel52
+10-21 14:58:41.261 24416 24416 D @@@Codec Info:
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: video/hevc (OMX.qcom.video.decoder.hevc)
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	1080p: 240.0 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	4K: 60.4 fps
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCMainTierLevel51
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: HEVCProfileMain10: HEVCMainTierLevel51
+10-21 14:58:41.261 24416 24416 D @@@Codec Info: HEVCProfileMain10HDR10: HEVCMainTierLevel51
+10-21 14:58:41.266 24416 24416 D @@@Codec Info:
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: video/hevc (OMX.qcom.video.decoder.hevc.secure)
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Max supported instances: 6
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	1080p: 240.0 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	4K: 60.4 fps
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Secure playback decryption: true
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCMainTierLevel51
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: HEVCProfileMain10: HEVCMainTierLevel51
+10-21 14:58:41.266 24416 24416 D @@@Codec Info: HEVCProfileMain10HDR10: HEVCMainTierLevel51
+10-21 14:58:41.270 24416 24416 D @@@Codec Info:
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: video/hevc (OMX.qcom.video.encoder.hevc)
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Max resolution: 4096x2160
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888Compressed
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Intra refresh: true
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.270 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCMainTierLevel51
+10-21 14:58:41.275 24416 24416 D @@@Codec Info:
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: video/hevc (c2.android.hevc.decoder)
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Max resolution: 4096x2176
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Max bitrate: 10 Mbps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	360p: 740.7 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	360p (widescreen): 555.6 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	480p: 416.7 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	480p (widescreen): 311.5 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	576p: 308.6 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	720p: 138.9 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	1080p: 61.7 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	4K: 15.4 fps
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCHighTierLevel52
+10-21 14:58:41.275 24416 24416 D @@@Codec Info: HEVCProfileMainStill: HEVCHighTierLevel52
+10-21 14:58:41.278 24416 24416 D @@@Codec Info:
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: video/hevc (c2.android.hevc.encoder)
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Max resolution: 512x512
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Max bitrate: 10 Mbps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Frame rate: 	1  120 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	144p: 120.0 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	144p (YouTube): 120.0 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	240p: 102.4 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	240p (widescreen): 75.9 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	360p: 45.5 fps
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	Constant quality (CQ): true
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Encoding complexity range: 0  10 (default: 0)
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Encoding quality range: 0  100 (default: 80)
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: HEVCProfileMain: HEVCMainTierLevel52
+10-21 14:58:41.278 24416 24416 D @@@Codec Info: HEVCProfileMainStill: HEVCMainTierLevel52
+10-21 14:58:41.281 24416 24416 D @@@Codec Info:
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: video/mp4v-es (OMX.google.mpeg4.decoder)
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Max resolution: 352x288
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Max bitrate: 384 Kbps
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	144p: 60.0 fps
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	144p (YouTube): 60.0 fps
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	240p: 39.6 fps
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.281 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level6
+10-21 14:58:41.283 24416 24416 D @@@Codec Info:
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: video/mp4v-es (OMX.google.mpeg4.encoder)
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Max resolution: 176x144
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Max bitrate: 64 Kbps
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	144p: 15.0 fps
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.283 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level2
+10-21 14:58:41.286 24416 24416 D @@@Codec Info:
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: video/mp4v-es (OMX.qcom.video.decoder.mpeg4)
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Max resolution: 896x448
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Max bitrate: 8 Mbps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	144p: 60.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	144p (YouTube): 60.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	240p: 60.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	240p (widescreen): 60.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	360p: 60.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	360p (widescreen): 52.8 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	480p: 40.5 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	480p (widescreen): 30.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	576p: 30.0 fps
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level5
+10-21 14:58:41.286 24416 24416 D @@@Codec Info: MPEG4ProfileAdvancedSimple: MPEG4Level5
+10-21 14:58:41.290 24416 24416 D @@@Codec Info:
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: video/mp4v-es (OMX.qcom.video.encoder.mpeg4)
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Max resolution: 896x448
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Max bitrate: 8 Mbps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	144p: 60.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	144p (YouTube): 60.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	240p: 60.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	240p (widescreen): 60.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	360p: 60.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	360p (widescreen): 52.8 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	480p: 40.5 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	480p (widescreen): 30.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	576p: 30.0 fps
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888Compressed
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level5
+10-21 14:58:41.290 24416 24416 D @@@Codec Info: MPEG4ProfileAdvancedSimple: MPEG4Level5
+10-21 14:58:41.292 24416 24416 D @@@Codec Info:
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: video/mp4v-es (c2.android.mpeg4.decoder)
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Max resolution: 352x288
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Max bitrate: 384 Kbps
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	144p: 60.0 fps
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	144p (YouTube): 60.0 fps
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	240p: 39.6 fps
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.292 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level6
+10-21 14:58:41.294 24416 24416 D @@@Codec Info:
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: video/mp4v-es (c2.android.mpeg4.encoder)
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Max resolution: 176x144
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Max bitrate: 64 Kbps
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Frame rate: 	12  60 fps
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	144p: 15.0 fps
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.294 24416 24416 D @@@Codec Info: MPEG4ProfileSimple: MPEG4Level2
+10-21 14:58:41.298 24416 24416 D @@@Codec Info:
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (OMX.google.vp8.decoder)
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	480p: 833.3 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	480p (widescreen): 617.3 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	576p: 617.3 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	720p: 277.8 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	1080p: 122.5 fps
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.298 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info:
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (OMX.google.vp8.encoder)
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	480p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	480p (widescreen): 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	576p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	720p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	1080p: 960.0 fps
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.302 24416 24416 D @@@Codec Info: VP8ProfileMain: VP8Level_Version0
+10-21 14:58:41.305 24416 24416 D @@@Codec Info:
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (OMX.qcom.video.decoder.vp8)
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Max resolution: 4096x2048
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Max bitrate: 20 Mbps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.305 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.309 24416 24416 D @@@Codec Info:
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (OMX.qcom.video.encoder.vp8)
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Max resolution: 4096x2048
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Max bitrate: 20 Mbps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	QOMX_COLOR_Format32bitRGBA8888Compressed
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Intra refresh: true
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.309 24416 24416 D @@@Codec Info: VP8ProfileMain: VP8Level_Version1
+10-21 14:58:41.312 24416 24416 D @@@Codec Info:
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (c2.android.vp8.decoder)
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	480p: 833.3 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	480p (widescreen): 617.3 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	576p: 617.3 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	720p: 277.8 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	1080p: 122.5 fps
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.312 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info:
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp8 (c2.android.vp8.encoder)
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	360p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	360p (widescreen): 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	480p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	480p (widescreen): 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	576p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	720p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	1080p: 960.0 fps
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.316 24416 24416 D @@@Codec Info: VP8ProfileMain: VP8Level_Version0
+10-21 14:58:41.320 24416 24416 D @@@Codec Info:
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (OMX.google.vp9.decoder)
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	360p: 724.6 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	360p (widescreen): 543.5 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	480p: 416.7 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	480p (widescreen): 308.6 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	576p: 308.6 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	720p: 138.9 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	1080p: 61.3 fps
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level5
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: VP9Profile2: VP9Level5
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: VP9Profile2HDR: VP9Level5
+10-21 14:58:41.320 24416 24416 D @@@Codec Info: VP9Profile2HDR10Plus: VP9Level5
+10-21 14:58:41.323 24416 24416 D @@@Codec Info:
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (OMX.google.vp9.encoder)
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Max resolution: 2048x448
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Max bitrate: 30 Mbps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	360p: 908.2 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	360p (widescreen): 681.2 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	480p: 522.2 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	480p (widescreen): 386.8 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	576p: 386.8 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	720p: 174.1 fps
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.323 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level41
+10-21 14:58:41.326 24416 24416 D @@@Codec Info:
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (OMX.qcom.video.decoder.vp9)
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Max supported instances: 16
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Max resolution: 4096x2048
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Max bitrate: 20 Mbps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.326 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level5
+10-21 14:58:41.330 24416 24416 D @@@Codec Info:
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (OMX.qcom.video.decoder.vp9.secure)
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Hardware acceleration: true
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Max supported instances: 6
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Max resolution: 4096x2048
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Max bitrate: 20 Mbps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Frame rate: 	1  240 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	144p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	144p (YouTube): 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	240p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	240p (widescreen): 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	360p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	360p (widescreen): 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	480p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	480p (widescreen): 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	576p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	720p: 240.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	1080p: 120.0 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	4K: 30.2 fps
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32m
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mCompressed
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: 	QOMX_COLOR_FORMATYUV420PackedSemiPlanar32mMultiView
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Secure playback decryption: true
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.330 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level5
+10-21 14:58:41.333 24416 24416 D @@@Codec Info:
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (c2.android.vp9.decoder)
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Max resolution: 2048x2048
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Max bitrate: 40 Mbps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	360p: 724.6 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	360p (widescreen): 543.5 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	480p: 416.7 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	480p (widescreen): 308.6 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	576p: 308.6 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	720p: 138.9 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	1080p: 61.3 fps
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Adaptive playback: true
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Partial frames queuing: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Secure playback decryption: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Tunneled playback: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Partial access units per input buffer: false
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level5
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: VP9Profile2: VP9Level5
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: VP9Profile2HDR: VP9Level5
+10-21 14:58:41.333 24416 24416 D @@@Codec Info: VP9Profile2HDR10Plus: VP9Level5
+10-21 14:58:41.337 24416 24416 D @@@Codec Info:
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: video/x-vnd.on2.vp9 (c2.android.vp9.encoder)
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Hardware acceleration: false
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Max supported instances: 32
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Max resolution: 2048x448
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Max bitrate: 30 Mbps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Frame rate: 	0  960 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Max frame rate per resolution:
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	144p: 960.0 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	144p (YouTube): 960.0 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	240p: 960.0 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	240p (widescreen): 960.0 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	360p: 908.2 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	360p (widescreen): 681.2 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	480p: 522.2 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	480p (widescreen): 386.8 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	576p: 386.8 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	720p: 174.1 fps
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Color profiles:
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatSurface
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Flexible
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedPlanar
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420PackedSemiPlanar
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420Planar
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	COLOR_FormatYUV420SemiPlanar
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Intra refresh: false
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Dynamic timestamp: false
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Multiple access units: false
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Bitrate modes:
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	Constant bitrate (CBR): true
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	Constant quality (CQ): false
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: 	Variable bitrate (VBR): true
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: Profile levels:
+10-21 14:58:41.337 24416 24416 D @@@Codec Info: VP9Profile0: VP9Level41

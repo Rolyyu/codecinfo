@@ -5,6 +5,7 @@ import android.content.Intent
 import android.os.Build
 import android.os.Bundle
 import android.os.Looper
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
@@ -101,6 +102,42 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         if (shouldRecreateActivity) {
             recreate()
             return
+        }
+    }
+
+    override fun onStart() {
+        super.onStart()
+
+        printCodecDetails()
+    }
+
+    private fun printCodecDetails() {
+        val codecStringBuilder = StringBuilder()
+
+        codecStringBuilder.append("${getString(R.string.codec_list)}:\n")
+        Log.d("@@@Codec Info", "${getString(R.string.codec_list)}:\n")
+        val codecSimpleInfoList = getSimpleCodecInfoList(this, true)
+        codecSimpleInfoList.addAll(getSimpleCodecInfoList(this, false))
+
+        for (info in codecSimpleInfoList) {
+            codecStringBuilder.append("\n$info\n")
+            val oneCodecStringBuilder = StringBuilder()
+            oneCodecStringBuilder.append("\n$info\n")
+            val codecInfoMap = getDetailedCodecInfo(this, info.codecId, info.codecName)
+
+            for (key in codecInfoMap.keys) {
+                val stringToAppend = if (key != getString(R.string.bitrate_modes)
+                        && key != getString(R.string.color_profiles)
+                        && key != getString(R.string.profile_levels)
+                        && key != getString(R.string.max_frame_rate_per_resolution)) {
+                    "$key: ${codecInfoMap[key]}\n"
+                } else {
+                    "$key:\n${codecInfoMap[key]}\n"
+                }
+                codecStringBuilder.append(stringToAppend)
+                oneCodecStringBuilder.append(stringToAppend)
+            }
+            Log.d("@@@Codec Info", oneCodecStringBuilder.toString())
         }
     }
 

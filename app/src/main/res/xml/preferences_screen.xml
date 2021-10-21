@@ -2,6 +2,7 @@
 
     <PreferenceCategory app:title="Display">
         <androidx.preference.ListPreference
+            app:isPreferenceVisible="false"
             app:entries="@array/settings_dark_theme_titles"
             app:entryValues="@array/settings_dark_theme_values"
             app:defaultValue="@integer/dark_theme_default_value"
@@ -54,7 +55,8 @@
 
     </PreferenceCategory>
 
-    <PreferenceCategory app:title="Help">
+    <PreferenceCategory app:title="Help"
+        app:isPreferenceVisible="false">
 
         <Preference
             app:key="feedback"

@@ -1,15 +1,58 @@
+# Android generated
+bin
+gen
+libs
+obj
+lint.xml
+
+# IntelliJ IDEA
+.idea/
 *.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+
+# Eclipse
+.project
+.classpath
+.settings
+.checkstyle
+.cproject
+
+# Gradle
 .gradle
-/local.properties
-/.idea/caches/build_file_checksums.ser
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
+build
+buildout
+out
+
+# Maven
+target
+release.properties
+pom.xml.*
+
+# Ant
+ant.properties
+local.properties
+proguard.cfg
+proguard-project.txt
+
+# Other
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.idea/assetWizardSettings.xml
-app/build
-app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/asynclayoutinflater/R.java
-.idea/kotlinc.xml
+cmake-build-debug
+dist
+tmp
+aar/
+
+#folder
+version
+Utility
+tmp
+Thirdparty
+Test
+SampleCode
+out
+Document
+.svn
+.history
+.vscode
